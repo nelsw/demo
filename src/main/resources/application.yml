@@ -1,0 +1,5 @@
+spring:
+  data:
+    mongodb:
+      uri: //localhost:27017/aladin
+      authentication-database: admin
